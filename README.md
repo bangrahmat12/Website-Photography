@@ -1,12 +1,7 @@
 # Website-Photography
 Fotografi
 
-![image](https://user-images.githubusercontent.com/93855944/158050221-2a6aebb1-299d-4da5-a6f8-b119a872f865.jpg)
-
-
-
-
-![Screenshot (189)](https://user-images.githubusercontent.com/93855944/158050398-3dcf16c6-2870-48bd-8d1d-d92a717b813c.jpg)
-![Screenshot (190)](https://user-images.githubusercontent.com/93855944/158050399-b8a21c51-6c4d-4df0-ad27-074f01ec7152.jpg)
-![Screenshot (191)](https://user-images.githubusercontent.com/93855944/158050401-9f0c27ec-8360-408f-9dfb-baeb683ab40f.jpg)
-
+![Screenshot (188)](https://user-images.githubusercontent.com/93855944/158050498-356cb11b-b710-42d0-a325-3822f4bb0ddb.jpg)
+![Screenshot (189)](https://user-images.githubusercontent.com/93855944/158050499-8ade3602-0ce0-4aad-a27e-fc75af944ecf.jpg)
+![Screenshot (190)](https://user-images.githubusercontent.com/93855944/158050501-c8100740-575f-4951-94a8-1df28377ab9f.jpg)
+![Screenshot (191)](https://user-images.githubusercontent.com/93855944/158050502-c2ea1509-ae0c-4f7d-a348-def3322f141a.jpg)
