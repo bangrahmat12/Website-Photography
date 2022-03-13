@@ -1,4 +1,4 @@
 # Website-Photography
 Fotografi
 
-<img src="<?= base_url (image.jpg); ?>" alt="demo"/>
+<img src="<?= base_url (img/image.jpg); ?>" alt="demo"/>
