@@ -1,4 +1,4 @@
 # Website-Photography
 Fotografi
 
-<img src="img/image.jpg" alt=""/>
+<img src="img/image.jpg" alt="demo"/>
